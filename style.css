@@ -1,0 +1,315 @@
+*{
+margin: 0;
+padding: 0;
+    box-sizing: border-box;
+}
+ 
+.navbar{
+
+display: flex;
+background-color: gray;
+color: white;
+padding: 10px;
+
+}
+
+.watch{
+
+font-size: 40px;
+font-weight: 700;
+font-style: italic;
+display: flex;
+width: 100%;
+
+}
+
+.end{
+
+display: flex;
+justify-items: center;
+align-items: center;
+gap: 5px;
+
+}
+
+.end input{
+
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+border-collapse: collapse;
+}
+
+
+.end button{
+
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+
+}
+
+.center-portion{
+
+width: 100%;
+height: 50vh;
+color: white;
+background-color: black;
+background-image: url(https://wallpapers.com/images/hd/luxury-rolex-watch-black-background-ovbk03iahosy3yl5.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+}
+
+.center-portion h2{
+
+font-size: 40px;
+font-weight: 600;
+font-style: italic;
+text-align: center;
+padding: 100px;
+
+
+}
+
+.center-portion p{
+
+text-align: center;
+font-size:20px ;
+font-weight: 300;
+margin-bottom: 10px;
+}
+
+.card{
+
+margin-left: 30px;
+
+}
+
+.card h3{
+
+text-align: center;
+font-size: 35px;
+padding: 20px;
+
+}
+
+.card h6{
+
+text-align: center;
+font-size: 20px;
+margin-top: -10px;
+margin-bottom: 30px;
+
+
+
+}
+
+.author{
+
+width: 350px;
+border: 2px solid black;
+
+border-radius: 15px;
+overflow: hidden;
+background-color: white;
+
+}
+
+.author img{
+
+width: 100%;
+height: 220px;
+object-fit: cover;
+
+}
+
+.card-content{
+
+padding: 10px 15px ;
+
+
+
+
+}
+
+.card-content h4{
+
+font-size: 25px;
+text-align: center;
+margin-bottom: 10px;
+}
+
+.card-content p{
+
+font-size: 15px;
+text-align: center;
+
+}
+
+.author-2{
+
+
+width: 350px;
+border: 2px solid black;
+border-radius: 15px;
+overflow: hidden;
+background-color: white;
+margin-left: 35%;
+margin-top: -22%;
+
+}
+
+.author-2 img{
+
+width: 100%;
+height: 220px;
+object-fit: cover;
+
+}
+
+
+.author-3{
+
+
+width: 350px;
+border: 2px solid black;
+border-radius: 15px;
+overflow: hidden;
+background-color: white;
+margin-left:68%;
+margin-top:  -22%;
+
+}
+
+.author-3 img{
+
+width: 100%;
+height: 220px;
+object-fit: cover;
+
+}
+.preview{
+
+height: 50vh;
+background-color:whitesmoke;
+
+
+
+}
+.preview h5{
+
+text-align: center;
+font-size: 28px;
+margin-bottom: 80px;
+}
+.box{
+
+border: 2px solid black;
+width: 350px;
+height: 100px;
+text-align: center;
+margin: 100px;
+margin-right: 10px;
+border-left: 10px solid black;
+ border-radius: 10px ;
+ background-color: white;
+
+}
+
+
+.box-2{
+
+border: 2px solid black;
+width: 350px;
+height: 100px;
+text-align: center;
+border-left: 10px solid black;
+ border-radius: 10px ;
+ background-color: white;
+margin-left: 40%;
+margin-top: -13%;
+
+}
+
+.star{
+
+
+    margin-left: 70%;
+margin-top: -7%;
+height: 140px;
+object-fit: cover;
+}
+
+.star textarea{
+
+padding: 35px;
+
+
+}
+
+.star p{
+
+font-size: 20px;
+margin-bottom: 10px;
+}
+
+.star button{
+
+background-color: gray;
+border: none;
+border-radius: 10px;
+font-size: 20px;
+width: 100px;
+color: black;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
